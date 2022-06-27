@@ -7,3 +7,5 @@ run life
 flex everywhere
 come back
 come back
+class
+flex everywhere
